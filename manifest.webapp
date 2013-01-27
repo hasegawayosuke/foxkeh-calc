@@ -1,0 +1,11 @@
+{
+"name":	 "foxkeh calc", "description":	 "ふぉくすけの電卓アプリ(googleで計算もできるよ！)", "launch_path":	 "/index.html",
+"icons":	 {
+    "128":	 "/icon.png"
+  },
+  "developer":	 {
+    "name":	 "Team calc",
+    "url":	 "http://.jp/"
+},
+  "default_locale":	 "ja"
+}
